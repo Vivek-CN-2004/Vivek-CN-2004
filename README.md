@@ -36,62 +36,50 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 
 ⚡ Skilled in Python, FastAPI, React, PostgreSQL, SQL, JavaScript, and REST APIs.
 
-🌱 Currently learning Docker, AWS and Microservices.
+📄 Check out my resume here - **[My Resume]("G:\My Drive\Res1\Vivek_CN_Resume.pdf")**
 
-🚀 Interested in Backend Engineering, Cloud Computing, AI, and Full-Stack Development.
+💻 Explore all my projects on **[GitHub](https://github.com/Vivek-CN-2004)**
+
+🌐 Visit my portfolio - **[Portfolio](https://YOUR-PORTFOLIO.vercel.app)**
 
 🎯 Looking for Software Engineer and Full-Stack Developer opportunities.
 
 📫 Reach me at: **vivekcn2004@gmail.com**
 
-## 💻 Tech Stack
-
-### Programming Languages
+## 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
-</p>
 
-### Frontend
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-<p>
-REST APIs • JWT Authentication • OAuth2 • SQLAlchemy • Alembic
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
-</p>
-
-### DevOps & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
-</p>
-
-<p>
-Render
-</p>
-
-### AI & Machine Learning
-
-<p>
-Generative AI • Scikit-learn • Pandas • NumPy
-</p>
-
-### Development Tools
-
-<p>
-VS Code • Cursor • Claude • Postman
 </p>

@@ -36,7 +36,7 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 
 ⚡ Skilled in Python, FastAPI, React, PostgreSQL, SQL, JavaScript, and REST APIs.
 
-📄 Check out my resume here - **[My Resume]("G:\My Drive\Res1\Vivek_CN_Resume.pdf")**
+📄 Check out my resume here - **[My Resume]**
 
 💻 Explore all my projects on **[GitHub](https://github.com/Vivek-CN-2004)**
 
@@ -83,3 +83,27 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
 </p>
+## 🚀 Featured Projects
+
+### 🌾 Namma Raitha – The Future of Smart & Sustainable Farming
+
+*Namma Raitha* is a research-driven smart agriculture platform designed to accelerate digital transformation in farming through AI-enabled decision support, precision agriculture, and sustainable farming practices. The platform aims to bridge the gap between farmers and modern agricultural technologies by providing intelligent insights, improving productivity, optimizing resource utilization, and promoting environmentally sustainable farming.
+
+**📖 Published Research:** *Namma Raitha: The Future of Smart & Sustainable Farming* (Springer Nature)
+
+**✨ Key Features**
+- 🌱 Smart Agriculture & Precision Farming
+- 🤖 AI-powered Decision Support for Farmers
+- 🌦️ Weather-based Farming Insights
+- 🦠 Crop Disease Identification & Recommendations
+- 💧 Sustainable Resource & Water Management
+- 📈 Data-driven Agricultural Analytics
+- 🌍 Digital Platform for Modern & Sustainable Farming
+
+**🛠️ Tech Stack:** FastAPI • React • PostgreSQL • Python • SQLAlchemy • JWT • Firebase • Vercel
+
+**🌐 Live Demo:** https://namma-raitha-f.vercel.app/
+
+**💻 GitHub Repository:** https://github.com/Vivek-CN-2004/YOUR_REPOSITORY_NAME
+
+**📚 Research Publication:** *Namma Raitha: The Future of Smart & Sustainable Farming* (Springer Nature)

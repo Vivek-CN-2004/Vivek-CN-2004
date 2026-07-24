@@ -27,3 +27,7 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vivek-CN-2004&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
+</p>

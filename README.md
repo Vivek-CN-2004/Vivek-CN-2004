@@ -28,6 +28,70 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivek-CN-2004&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
+## 🚀 About Me
+
+🎓 Computer Science & Engineering Graduate
+
+💻 Software Engineer passionate about building scalable and high-performance web applications.
+
+⚡ Skilled in Python, FastAPI, React, PostgreSQL, SQL, JavaScript, and REST APIs.
+
+🌱 Currently learning Docker, AWS and Microservices.
+
+🚀 Interested in Backend Engineering, Cloud Computing, AI, and Full-Stack Development.
+
+🎯 Looking for Software Engineer and Full-Stack Developer opportunities.
+
+📫 Reach me at: **vivekcn2004@gmail.com**
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+<p>
+REST APIs • JWT Authentication • OAuth2 • SQLAlchemy • Alembic
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+</p>
+
+### DevOps & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+</p>
+
+<p>
+Render
+</p>
+
+### AI & Machine Learning
+
+<p>
+Generative AI • Scikit-learn • Pandas • NumPy
+</p>
+
+### Development Tools
+
+<p>
+VS Code • Cursor • Claude • Postman
 </p>

@@ -83,27 +83,16 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
 </p>
-## 🚀 Featured Projects
+## 🌱 Vision Project
 
-### 🌾 Namma Raitha – The Future of Smart & Sustainable Farming
+### 🌾 Namma Raitha – Smart Agriculture Platform
 
-*Namma Raitha* is a research-driven smart agriculture platform designed to accelerate digital transformation in farming through AI-enabled decision support, precision agriculture, and sustainable farming practices. The platform aims to bridge the gap between farmers and modern agricultural technologies by providing intelligent insights, improving productivity, optimizing resource utilization, and promoting environmentally sustainable farming.
+🏆 Published in Springer Nature
 
-**📖 Published Research:** *Namma Raitha: The Future of Smart & Sustainable Farming* (Springer Nature)
+🌐 **Live Demo:** [Namma Raitha](https://namma-raitha-f.vercel.app/)
 
-**✨ Key Features**
-- 🌱 Smart Agriculture & Precision Farming
-- 🤖 AI-powered Decision Support for Farmers
-- 🌦️ Weather-based Farming Insights
-- 🦠 Crop Disease Identification & Recommendations
-- 💧 Sustainable Resource & Water Management
-- 📈 Data-driven Agricultural Analytics
-- 🌍 Digital Platform for Modern & Sustainable Farming
+💻 **GitHub:** [Source Code](https://github.com/Vivek-CN-2004/YOUR_REPOSITORY)
 
-**🛠️ Tech Stack:** FastAPI • React • PostgreSQL • Python • SQLAlchemy • JWT • Firebase • Vercel
+📄 **Research Paper:** [Springer Nature Publication](YOUR_PUBLICATION_LINK)
 
-**🌐 Live Demo:** https://namma-raitha-f.vercel.app/
-
-**💻 GitHub Repository:** https://github.com/Vivek-CN-2004/YOUR_REPOSITORY_NAME
-
-**📚 Research Publication:** *Namma Raitha: The Future of Smart & Sustainable Farming* (Springer Nature)
+> 🚀 Namma Raitha is the foundation of my long-term vision to build an AI-powered agriculture platform that empowers millions of farmers through smart, secure, and sustainable digital solutions. The platform is continuously evolving with new features, stronger security, and scalable architecture.

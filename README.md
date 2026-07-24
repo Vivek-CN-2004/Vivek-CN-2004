@@ -91,8 +91,6 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 
 🌐 **Live Demo:** [Namma Raitha](https://namma-raitha-f.vercel.app/)
 
-💻 **GitHub:** [Source Code](https://github.com/Vivek-CN-2004/YOUR_REPOSITORY)
-
 📄 **Research Paper:** [Springer Nature Publication](YOUR_PUBLICATION_LINK)
 
 > 🚀 Namma Raitha is the foundation of my long-term vision to build an AI-powered agriculture platform that empowers millions of farmers through smart, secure, and sustainable digital solutions. The platform is continuously evolving with new features, stronger security, and scalable architecture.

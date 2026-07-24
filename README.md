@@ -85,7 +85,7 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 </p>
 ## 🌱 Vision Project
 
-### 🌾 Namma Raitha – Smart Agriculture Platform
+### 🌾 Namma Raitha: The Future of Smart & Sustainable Farming
 
 🏆 Published in Springer Nature
 

@@ -58,8 +58,10 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
+## 💼 Open to Opportunities
+
+I'm always interested in collaborating on innovative software projects and exploring Software Engineer, Backend Developer, and Full-Stack Developer opportunities.
 </p>
-## 🌱 Vision Project
 
 ### 🌾 Namma Raitha: The Future of Smart & Sustainable Farming
 

@@ -70,3 +70,24 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 📄 **Research Paper:** [Springer Nature Publication](YOUR_PUBLICATION_LINK)
 
 > 🚀 Namma Raitha is the foundation of my long-term vision to build an AI-powered agriculture platform that empowers millions of farmers through smart, secure, and sustainable digital solutions. The platform is continuously evolving with new features, stronger security, and scalable architecture.
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vivekvicky544957@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vivek-c-n-ba1044317">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://namma-raitha-f.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or explore my projects.
+</p>

@@ -16,7 +16,7 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 
 💻 Explore all my projects on **[GitHub](https://github.com/Vivek-CN-2004)**
 
-🌐 Visit my portfolio - **[Portfolio](https://YOUR-PORTFOLIO.vercel.app)**
+🌐 Visit my portfolio - **[Portfolio](https://vivekcn-portfolio.netlify.app/)**
 
 🎯 Looking for Software Engineer and Full-Stack Developer opportunities.
 

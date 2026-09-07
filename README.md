@@ -10,7 +10,7 @@ Software Engineer | Full-Stack Developer | Building Scalable Software for Real-W
 
 💻 Software Engineer passionate about building scalable and high-performance web applications.
 
-⚡ Skilled in Python, FastAPI, React,MySql, PostgreSQL, SQL, JavaScript, and REST APIs.
+⚡ Skilled in Python, FastAPI, React, MySql, PostgreSQL, SQL, JavaScript, and REST APIs.
 
 📄 Check out my resume here - [View My Resume](https://github.com/Vivek-CN-2004/Vivek-CN-2004/blob/main/Vivek_CN_Resume.pdf)
 
